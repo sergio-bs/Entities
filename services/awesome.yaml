@@ -5,4 +5,5 @@ metadata:
   description: Awesome Service (who knows what it does tho)
 spec:
   type: service
+  lifecycle: PoC
   owner: team-c
