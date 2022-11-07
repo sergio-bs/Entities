@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-opslevel-service-alias
+  description: "example used while testing Adam's MR"
+  annotations:
+    opslevel.com/service-alias: example-opslevel-service-alias
+spec:
+  type: service
+  lifecycle: PoC
+  owner: team-z
