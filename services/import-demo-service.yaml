@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Import Demo Service
+  description: "example used to show off import woohoo!"
+  tags:
+    - bs-one-tag
+    - the_cool_tag
+    - and.another.one
+  labels:
+    imma: label
+spec:
+  type: service
+  lifecycle: generally available
+  owner: Frontend
