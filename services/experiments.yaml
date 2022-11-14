@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Awesome
+  name: Experiments
   description: Awesome Service (who knows what it does tho)
 spec:
   type: service
