@@ -4,6 +4,8 @@ metadata:
   name: import_demo_service
   description: "example used to show off import woohoo!"
   tags:
+    - first
+    - two+words
     - bs-one-tag
     - the-cool-tag
     - andAnotherOne
