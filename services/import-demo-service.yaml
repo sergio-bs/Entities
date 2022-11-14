@@ -5,8 +5,8 @@ metadata:
   description: "example used to show off import woohoo!"
   tags:
     - bs-one-tag
-    - the_cool_tag
-    - and.another.one
+    - the-cool-tag
+    - andAnotherOne
   labels:
     imma: label
 spec:
