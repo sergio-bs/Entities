@@ -11,5 +11,5 @@ metadata:
     imma: label
 spec:
   type: service
-  lifecycle: generally available
+  lifecycle: generally_available
   owner: team-core

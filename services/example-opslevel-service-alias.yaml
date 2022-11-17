@@ -7,5 +7,5 @@ metadata:
     opslevel.com/service-alias: example-opslevel-service-alias
 spec:
   type: service
-  lifecycle: PoC
+  lifecycle: alpha
   owner: team-z

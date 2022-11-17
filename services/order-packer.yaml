@@ -5,5 +5,5 @@ metadata:
   description: Group items from orders as effeciently as possible
 spec:
   type: service
-  lifecycle: PoC
+  lifecycle: generally_available
   owner: team-core

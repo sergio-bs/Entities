@@ -5,5 +5,5 @@ metadata:
   description: The main touchpoint for customers
 spec:
   type: service
-  lifecycle: PoC
+  lifecycle: generally_available
   owner: Frontend

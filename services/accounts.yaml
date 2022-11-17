@@ -5,5 +5,5 @@ metadata:
   description: CMS tool
 spec:
   type: service
-  lifecycle: PoC
+  lifecycle: alpha
   owner: team-b

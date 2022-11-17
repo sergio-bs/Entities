@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ownerless
+  description: Demoing what happens if a service doesn't define an owner
+spec:
+  type: service
+  lifecycle: beta
