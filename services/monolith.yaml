@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: monolith
+  description: (legacy) The original monolith. We're migrating to microservices so updates to this service should be rare.
+spec:
+  type: service
+  lifecycle: end-of-life
+  owner: backend

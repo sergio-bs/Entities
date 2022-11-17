@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: duplicate
-  description: This will have a duplicate
+  name: storefront
+  description: The main touchpoint for customers
 spec:
   type: service
   lifecycle: PoC
-  owner: team-g
+  owner: Frontend

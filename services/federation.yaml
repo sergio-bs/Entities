@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: federation
+  description: (legacy) hopefully nobody figures out what this service does. Written in OCaml.
+spec:
+  type: service
+  lifecycle: end-of-life
+  owner: team-a

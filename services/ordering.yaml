@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ordering
+  description: one-stop-shop for all warehouse supplies and support functions
+spec:
+  type: service
+  lifecycle: PoC
+  owner: team-a

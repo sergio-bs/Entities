@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: shipment-tracker
+  description: Know where every package is and has been.
+spec:
+  type: service
+  lifecycle: PoC
+  owner: team-core

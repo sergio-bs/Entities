@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: order-packager
+  description: Group items from orders as effeciently as possible
+spec:
+  type: service
+  lifecycle: PoC
+  owner: team-core

@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: dup
+  name: duplicate
   description: This will have a duplicate
 spec:
   type: service
-  lifecycle: Noob
+  lifecycle: PoC
   owner: team-g
