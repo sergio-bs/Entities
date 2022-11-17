@@ -2,3 +2,5 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: Alice
+spec:
+  memberOf: team-a
