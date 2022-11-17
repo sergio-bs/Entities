@@ -8,7 +8,7 @@ metadata:
     - two+words
     - bs-one-tag
     - the-cool-tag
-    - andAnotherOne
+    - and-another-one
   labels:
     imma: label
 spec:
