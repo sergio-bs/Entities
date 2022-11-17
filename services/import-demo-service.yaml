@@ -11,6 +11,13 @@ metadata:
     - and-another-one
   labels:
     imma: label
+  links:
+    - url: https://example.com/cloud
+      title: Fancy Cloud Service of some kind
+      icon: cloud
+    - url: https://example.com/dashboard
+      title: Dashboard
+      icon: dashboard
 spec:
   type: service
   lifecycle: generally_available
