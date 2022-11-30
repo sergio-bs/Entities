@@ -7,4 +7,3 @@ spec:
   type: service
   lifecycle: generally_available
   owner: team-a
-  owner: team-ashley
