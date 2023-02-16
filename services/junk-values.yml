@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: junk-values
+  description: "A service full of values that don't match values in OpsLevel"
+  annotations:
+    opslevel.com/tier: tier 99 boi
+    opslevel.com/framework: dJANKo
+    opslevel.com/product: internal
+  tags:
+    - scriptjava
+spec:
+  type: service
+  lifecycle: generally_not_available
+  owner: nintynine-red-balloons
