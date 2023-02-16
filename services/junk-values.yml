@@ -9,6 +9,13 @@ metadata:
     opslevel.com/product: internal
   tags:
     - scriptjava
+    - another-useless
+  links:
+  - url: https://example.com/
+    title: "Example Link"
+  - url: https://caniuse.com/
+    title: "Can I Use this junk service?"
+    icon: "alert"
 spec:
   type: service
   lifecycle: generally_not_available
