@@ -3,6 +3,12 @@ kind: Component
 metadata:
   name: ordering
   description: one-stop-shop for all warehouse supplies and support functions
+  annotations:
+    opslevel.com/tier: tier_1
+    opslevel.com/framework: django
+    opslevel.com/product: internal
+  tags:
+    - python
 spec:
   type: service
   lifecycle: generally_available
