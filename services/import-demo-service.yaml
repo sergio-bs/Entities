@@ -18,6 +18,8 @@ metadata:
     - url: https://example.com/dashboard
       title: Dashboard
       icon: dashboard
+  annotations:
+    opslevel.com/tier: tier_3
 spec:
   type: service
   lifecycle: generally_available
