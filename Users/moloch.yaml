@@ -1,7 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: "Invalid Boi"
+  name: moloch
+  title: "Meditations on Moloch"
 spec:
   memberOf:
     - team-h
