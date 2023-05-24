@@ -9,7 +9,7 @@ metadata:
     - bs-one-tag
     - the-cool-tag
     - and-another-one
-    - Python
+    - python
   labels:
     imma: label
   links:
