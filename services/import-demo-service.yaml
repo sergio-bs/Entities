@@ -20,6 +20,7 @@ metadata:
       icon: dashboard
   annotations:
     opslevel.com/tier: tier_3
+    tag_check: coolValue
 spec:
   type: service
   lifecycle: generally_available
