@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Invalid.Email.Guy
+spec:
+  memberOf:
+    - team-c
