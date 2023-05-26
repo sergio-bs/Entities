@@ -6,3 +6,5 @@ metadata:
 spec:
   memberOf:
     - team-h
+  profile:
+    email: "moloch@example.com"
