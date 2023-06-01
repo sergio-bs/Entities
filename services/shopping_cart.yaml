@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: shopping_cart
+  title: Shopping Cart Service
+  description: "Persists user's shopping cart"
+  annotations:
+    opslevel.com/tier: tier_1
+    opslevel.com/language: Python
+    opslevel.com/framework: django
+spec:
+  type: service
+  lifecycle: generally_available
+  owner: team-core
