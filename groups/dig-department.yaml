@@ -5,3 +5,4 @@ metadata:
   description: The digging department
 spec:
   type: department
+  children: [sub-digging]
