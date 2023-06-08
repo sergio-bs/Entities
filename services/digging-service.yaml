@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: import_demo_service
+  description: "example used to show off import woohoo!"
+  tags:
+    - another-tag
+    - python
+  labels:
+    imma: label
+  annotations:
+    opslevel.com/tier: tier_3
+    opslevel.com/framework: Mango
+    opslevel.com/product: holes
+    tag_check: tagValue
+spec:
+  type: service
+  lifecycle: generally_available
+  owner: group:default/digging
