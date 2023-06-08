@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: import_demo_service
+  name: digging_service
   description: "example used to show off import woohoo!"
   tags:
     - another-tag
