@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: mike.the-tv
+  title: "Mike the TV"
+spec:
+  memberOf:
+    - team-c
+  profile:
+    email: "mike@example.com"
